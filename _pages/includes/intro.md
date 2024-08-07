@@ -1,4 +1,4 @@
-I work at the Digital Research Institute of ENN Group <img src='./images/enngroup.png' style='width: 5em;'> as an AI Engineer now in Beijing, China. 
+I work at the Digital Research Institute of ENN Group <img src='./images/enngroup.png' style='width: 6em;'> as an AI Engineer now in Beijing, China. 
 
 Digital Research Institute of ENN Group is committed to the research and development of industrial digitalization and artificial intelligence technology innovation, for smart energy, supply chains, smart cities, healthy lifestyles, etc. In recent years, the Institute has focused on federated learning and foundation models for industrial applications, with fruitful R&D results, more than 400 invention patents applied, dozens of impactful papers published with top conference awards, and several technical standards released.
 
