@@ -34,9 +34,22 @@
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CIKM 2024</div>
+      <img src='images/CIKM.jpg' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
+    **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang \\
+    International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track) \\
+    [[**Paper**](https://arxiv.org/abs/2401.05012)]
+  </div>
+</div>
 
-
-
+## Full List
 
 - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
