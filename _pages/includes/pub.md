@@ -7,16 +7,13 @@
   display: flex;
   align-items: flex-start; /* Align items to the top */
 }
-
 .paper-box-image {
-  flex: 0 0 50%; /* Adjust the width of the image container */
+  flex: 0 0 80%; /* Adjust the width of the image container */
   margin-right: 10px; /* Adjust the space between image and text */
 }
-
 .paper-box-image img {
   width: 100%; /* Make the image take the full width of its container */
 }
-
 .paper-box-text {
   flex: 1; /* Allow the text container to take the remaining space */
 }
