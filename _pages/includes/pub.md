@@ -3,7 +3,7 @@
 <!--## 🎙 Speech Synthesis-->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/CIKM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
