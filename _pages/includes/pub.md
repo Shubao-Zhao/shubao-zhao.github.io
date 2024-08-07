@@ -79,6 +79,36 @@
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">FL-IJCAI</div>
+      <img src='images/IJCAI22.jpg' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-28996-5_10">Cluster-driven Personalized Federated Learning for Natural Gas Load Forecasting</a> <br />
+    <strong>Shubao Zhao</strong>, Jia Liu, Guoliang Ma, Jie Yang, Di Liu, Zengxiang Li <br />
+    FL-IJCAI'22 (Innovation Paper, 一作) <br />
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-28996-5_10"><strong>Paper</strong></a>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">FL-AAAI</div>
+      <img src='images/AAAI22.jpg' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/abs/2211.09406">Personalized federated learning for multi-task fault diagnosis of rotating machinery</a> <br />
+    Sheng Guo, Zengxiang Li, Hui Liu, <strong>Shubao Zhao</strong>, Cheng Hao Jin <br />
+    FL-AAAI'22 <br />
+    <a href="https://arxiv.org/abs/2211.09406"><strong>Paper</strong></a>
+  </div>
+</div>
+
 
 
 ## Full List
@@ -86,5 +116,5 @@
 - [Rethinking Self-Supervised Learning for Time Series Forecasting: A Temporal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893607), **Shubao Zhao**, Xinxing Zhou, Ming Jin, et al. (submitted to Knowledge-Based Systems; Q1; IF 7.2)
 - [Shadowed Set-based Three-way Clustering with Bilevel Aggregation for Personalized Federated Learning](https://scholar.google.com/citations?user=UFzTZJgAAAAJ&hl=zh-CN), **Shubao Zhao**, Singee Teo, Zengxiang Li. (submitted to Future Generation Computer Systems; Q1; IF 6.2)
 - [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012), **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, et al. (CIKM 2024, Full Research Paper Track; CCF B; 一作)
-- [Federated deep contrastive learning for mid-term natural gas demand forecasting](https://www.sciencedirect.com/science/article/abs/pii/S030626192300867X)
+- [Federated deep contrastive learning for mid-term natural gas demand forecasting](https://www.sciencedirect.com/science/article/abs/pii/S030626192300867X), Dalin Qin, Guobing Liu, Zengxiang Li, et al. Applied Energy (Q1; IF 10.1)
 
