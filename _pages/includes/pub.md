@@ -113,8 +113,13 @@
 
 ## Full List
 
-- [Rethinking Self-Supervised Learning for Time Series Forecasting: A Temporal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893607), **Shubao Zhao**, Xinxing Zhou, Ming Jin, et al. (submitted to Knowledge-Based Systems; Q1; IF 7.2)
-- [Shadowed Set-based Three-way Clustering with Bilevel Aggregation for Personalized Federated Learning](https://scholar.google.com/citations?user=UFzTZJgAAAAJ&hl=zh-CN), **Shubao Zhao**, Singee Teo, Zengxiang Li. (submitted to Future Generation Computer Systems; Q1; IF 6.2)
+- [Rethinking Self-Supervised Learning for Time Series Forecasting: A Temporal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893607), **Shubao Zhao**, Xinxing Zhou, Ming Jin, et al. (submitted to Knowledge-Based Systems; Q1; IF 7.2; 一作)
+- [Shadowed Set-based Three-way Clustering with Bilevel Aggregation for Personalized Federated Learning](https://scholar.google.com/citations?user=UFzTZJgAAAAJ&hl=zh-CN), **Shubao Zhao**, Singee Teo, Zengxiang Li. (submitted to Future Generation Computer Systems; Q1; IF 6.2; 一作)
 - [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012), **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, et al. (CIKM 2024, Full Research Paper Track; CCF B; 一作)
 - [Federated deep contrastive learning for mid-term natural gas demand forecasting](https://www.sciencedirect.com/science/article/abs/pii/S030626192300867X), Dalin Qin, Guobing Liu, Zengxiang Li, et al. Applied Energy (Q1; IF 10.1)
+- [Cluster-driven Personalized Federated Learning for Natural Gas Load Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-28996-5_10), **Shubao Zhao**, Jia Liu, Guoliang Ma, et al. FL-IJCAI'22 (Innovation Paper, 一作)
+- [Personalized federated learning for multi-task fault diagnosis of rotating machinery](https://arxiv.org/abs/2211.09406), **Shubao Zhao**, Jia Liu, Guoliang Ma, et al. FL-AAAI'22
+- [基于阴影集的多粒度三支聚类集成](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200626), 姜春茂, **赵书宝**. 电子学报 (EI; CCF A; 通讯)
+- [一种基于三支聚类的快速KNN算法](http://xwxt.sict.ac.cn/CN/Y2021/V42/I9/1845), **赵书宝**, 姜春茂. 小型微型计算机系统 (CCF B; 一作)
+- [Action Strategy Analysis in Probabilistic Preference Movement-Based Three-Way Decision]([http://xwxt.sict.ac.cn/CN/Y2021/V42/I9/1845](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/5436507)), Chunmao Jiang, **Shubao Zhao**. Mathematical Problems in Engineering (EI; 通讯)
 
