@@ -51,7 +51,9 @@
 
 ## Full List
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+- [Rethinking Self-Supervised Learning for Time Series Forecasting: A Temporal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893607), **Shubao Zhao**, Xinxing Zhou, Ming Jin, et al. (submitted to Knowledge-Based Systems; Q1; IF 7.2)
+- [Shadowed Set-based Three-way Clustering with Bilevel Aggregation for Personalized Federated Learning](https://scholar.google.com/citations?user=UFzTZJgAAAAJ&hl=zh-CN), **Shubao Zhao**, Singee Teo, Zengxiang Li. (submitted to Future Generation Computer Systems; Q1; IF 6.2)
+- [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012), **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, et al. (CIKM 2024, Full Research Paper Track; CCF B; 一作)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
