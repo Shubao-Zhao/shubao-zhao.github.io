@@ -9,7 +9,7 @@
 }
 
 .paper-box-image {
-  flex: 0 0 25%; /* Adjust the width of the image container */
+  flex: 0 0 30%; /* Adjust the width of the image container */
   margin-right: 10px; /* Adjust the space between image and text */
 }
 
@@ -32,26 +32,13 @@
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2401.05012">HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting</a> <br />
     <strong>Shubao Zhao</strong>, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang <br />
-    International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track) <br />
+    International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track; CCF B; 一作) <br />
     <a href="https://arxiv.org/abs/2401.05012"><strong>Paper</strong></a>
   </div>
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CIKM 2024</div>
-      <img src='images/CIKM.jpg' alt="sym">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
-    **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang \\
-    International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track) \\
-    [[**Paper**](https://arxiv.org/abs/2401.05012)]
-  </div>
-</div>
+
 
 ## Full List
 
