@@ -2,14 +2,39 @@
 # 📝 Publications 
 <!--## 🎙 Speech Synthesis-->
 
+<style>
+.paper-box {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/CIKM.jpg' alt="sym" width="85%"></div></div>
-<div class='paper-box-text' markdown="1">
-[HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
-**Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang \\
-International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track) \\
-[[**Paper**](https://arxiv.org/abs/2401.05012)]
-</div>
+.paper-box-image {
+  flex: 0 0 50%; /* Adjust the width of the image container */
+  margin-right: 10px; /* Adjust the space between image and text */
+}
+
+.paper-box-image img {
+  width: 100%; /* Make the image take the full width of its container */
+}
+
+.paper-box-text {
+  flex: 1; /* Allow the text container to take the remaining space */
+}
+</style>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CIKM 2024</div>
+      <img src='images/CIKM.jpg' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
+    **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang \\
+    International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track) \\
+    [[**Paper**](https://arxiv.org/abs/2401.05012)]
+  </div>
 </div>
 
 
