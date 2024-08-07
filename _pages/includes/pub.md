@@ -8,9 +8,9 @@
 
 [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
 **Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang \\
-International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track)
-
+International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track) \\
 [**Paper**](https://arxiv.org/abs/2401.05012)
+
 <!--
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
