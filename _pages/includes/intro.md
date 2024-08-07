@@ -1,6 +1,8 @@
 I work at the Digital Research Institute of ENN Group <img src='./images/enngroup.png' style='width: 5em;'> as an AI Engineer now in Beijing, China. 
 
-I am now working on time-series analysis(forecasting, classification, and anomaly detection), fault diagnosis, large language model, multi-modal, federated learning, and ensemble learning. 
+Digital Research Institute of ENN Group is committed to the research and development of industrial digitalization and artificial intelligence technology innovation, for smart energy, supply chains, smart cities, healthy lifestyles, etc. In recent years, the Institute has focused on federated learning and foundation models for industrial applications, with fruitful R&D results, more than 400 invention patents applied, dozens of impactful papers published with top conference awards, and several technical standards released.
+
+As an AI engineer, my primary responsibilities include researching industrial internet, time series analysis, multi-modal foundation models, knowledge distillation, and federated learning. I have successfully deployed a series of projects in various applications such as natural gas demand forecasting, equipment predictive maintenance, heating system optimization, and safety inspection and management. We establish collaborations amongst government agencies, industry companies and universities for fundamental research, interoperable Federated Learning platform testbed and ecosystem for various Industrial Internet applications with many participants from different backgrounds and regions.
 
 <!--# 
 If you are seeking any form of **academic cooperation**, please feel free to email me at [machinelearner@126.com].
