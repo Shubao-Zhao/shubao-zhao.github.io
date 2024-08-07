@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012) \\
-**Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang
+**Shubao Zhao**, Ming Jin, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang \\
 International Conference on Information and Knowledge Management (CIKM), 2024 (Full Research Paper Track)
 
 [**Paper**](https://arxiv.org/abs/2401.05012)
