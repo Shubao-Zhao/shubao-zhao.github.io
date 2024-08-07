@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Research Interests"
-    url: "/#-Research Interests"
+    url: "/#-research-interests"
 
   - title: "News"
     url: "/#-news"
@@ -17,9 +17,3 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
