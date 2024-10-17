@@ -44,7 +44,7 @@
   <div class='paper-box-text'>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893607">Rethinking Self-Supervised Learning for Time Series Forecasting: A Temporal Perspective</a> <br />
     <strong>Shubao Zhao</strong>, Xinxing Zhou, Ming Jin, Hou Zhaoxiang, Chengyi Yang, Zengxiang Li, Qingsong Wen, Yi Wang, Yanlong Wen, Xiaojie Yuan <br />
-    submitted to Knowledge-Based Systems (Q1; IF 7.2; 一作) <br />
+    accepted by Knowledge-Based Systems (Q1; IF 7.2; 一作) <br />
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893607"><strong>Paper</strong></a>
   </div>
 </div>
